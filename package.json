@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/username/my-project.git"
+    "url": "https://github.com/shinkai-tester/qa_auto_2.4.git"
   },
   "author": "Aleksandra Klimantova",
   "license": "ISC",
